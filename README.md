@@ -1,6 +1,5 @@
-# PrivacyPolicyURL
-To Store Privacy Policy
 Privacy Policy of the TS_Demo_Page Facebook app
+
 In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
 
 Data Controller and Owner
